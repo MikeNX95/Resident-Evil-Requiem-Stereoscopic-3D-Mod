@@ -1,6 +1,6 @@
 # Resident-Evil-Requiem-Stereoscopic-3D-Mod
 
-Based on REFramework by Praydog https://github.com/praydog/REFramework AFR 3D by BerZerker96 https://github.com/BerZerker96/6DOF-Head-Tracking-Mods-Hub
+Based on REFramework by **Praydog** https://github.com/praydog/REFramework AFR 3D by **BerZerker96** https://github.com/BerZerker96/6DOF-Head-Tracking-Mods-Hub
 
 **Installation Guide**
 
